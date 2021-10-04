@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Painting Class",
+    "time": " 10:00 am - 12:00 am",
+    "about": "fuly rarched an plications awesome theme education Lorem commodo lectus at sollicitudin elementum. Sed dolor turpis, condimentum sit amet maximus sit amet, rhoncus non turpis. Aenean convallis ac lorem et sodales. Sed dictum vel orci nec rhoncus. Donec quis porttitor arcu. Nulla ut justo quis augue commodo mattis nec vel ante.  Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere",
+    "yarsOld": "01-10",
+    "tutionFee": "$120.00",
+    "classSize": "50-60",
+    "id": 12345994,
+    "img": "https://i.ibb.co/cJJ7QXq/class-lg-3.jpg",
+    "key": "98245KINTER1212NO4"
+  },
+  {
+    "name": "Dance Class",
+    "time": " 08:00 am - 10:00 am",
+    "about": "Draticaly novate fuly rarched an plications awesome theme education Lorem commodo lectus at sollicitudin elementum. Sed dolor turpis, condimentum sit amet maximus sit amet, rhoncus non turpis. Aenean convallis ac lorem et sodales. Sed dictum vel orci nec rhoncus. Donec quis porttitor arcu. Nulla ut justo quis augue commodo mattis nec vel ante.  Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere.",
+    "yarsOld": "01-10",
+    "tutionFee": "$420.00",
+    "classSize": "55-65",
+    "id": 12345995,
+    "img": "https://i.ibb.co/68sbDsx/class-lg-4.jpg",
+    "key": "98245KINTER1212NO5"
+  },
+  {
+    "name": "Economy and creativity",
+    "time": " 08:00 am - 10:00 am",
+    "about": "Sed sollicitudin odio vitae blandit aliquet. Praesent vitae urna ornare, sodales lacus lobortis, dictum risus. Donec ut tellus euismod, venenatis elit quis, volutpat nisl. Fusce ultricies lorem eget tellus finibus euismod. Phasellus eu erat interdum, finibus ligula vitae, lobortis metus. Duis blandit facilisis laoreet. Cras auctor ex tellus, sed ornare leo luctus imperdiet. Phasellus scelerisque rhoncus massa, a fringilla augue mattis at. Cras in scelerisque diam, nec ornare nisl. In at elit feugiat, viverra tellus nec, pharetra massa. Cras vehicula rhoncus lorem sagittis porta. Suspendisse in enim condimentum, porta neque quis, facilisis nisl. Morbi sit amet quam ornare, ornare nisl sed, placerat mi. Ut ut arcu eu elit dapibus ultrices. Suspendisse non dapibus nibh, nec blandit metus",
+    "yarsOld": "01-05",
+    "tutionFee": "$30.00",
+    "classSize": "20-25",
+    "id": 12345996,
+    "img": "https://i.ibb.co/F5bdYch/img5.jpg",
+    "key": "98245KINTER1212NO6"
+  },
+  {
+    "name": "Swimming Champion in the making",
+    "time": " 011:00 am - 01:00 pm",
+    "about": " novate fuly rarched an plications awesome theme education Lorem commodo lectus at sollicitudin elementum. Sed dolor turpis, condimentum sit amet maximus sit amet, rhoncus non turpis. Aenean convallis ac lorem et sodales. Sed dictum vel orci nec rhoncus. Donec quis porttitor arcu. Nulla ut justo quis augue commodo mattis nec vel ante.  Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere.",
+    "yarsOld": "03-10",
+    "tutionFee": "$100.00",
+    "classSize": "30-35",
+    "id": 12345997,
+    "img": "https://i.ibb.co/0pb79nT/img15.jpg",
+    "key": "98245KINTER1212NO7"
+  }
+]
