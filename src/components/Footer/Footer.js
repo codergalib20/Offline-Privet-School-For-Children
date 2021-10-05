@@ -8,10 +8,10 @@ const Footer = () => {
                 <div>
                     <ul>
                         <li className="text-xl  font-bold border-b-2 pb-3 border-white text-white">All Pages</li>
-                        <li className="text-lg cursor-pointer pt-3 font-medium text-white"><Link>Home </Link></li>
-                        <li className="text-lg cursor-pointer font-medium text-white"><Link>About </Link></li>
-                        <li className="text-lg cursor-pointer font-medium text-white"><Link>Services </Link></li>
-                        <li className="text-lg cursor-pointer font-medium text-white"><Link>Teachers </Link></li>
+                        <li className="text-lg cursor-pointer pt-3 font-medium text-white"><Link to="/home">Home </Link></li>
+                        <li className="text-lg cursor-pointer font-medium text-white"><Link to='/about'>About </Link></li>
+                        <li className="text-lg cursor-pointer font-medium text-white"><Link to="./services">Services </Link></li>
+                        <li className="text-lg cursor-pointer font-medium text-white"><Link to="/teacher">Teachers </Link></li>
                     </ul>
                 </div>
                 <div>

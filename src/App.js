@@ -12,28 +12,36 @@ function App() {
   return (
     <div className="App">
       <Router>
-      <Header></Header>
         <Switch>
           <Route exact path="/">
-            <Home></Home>  
+            <Header></Header>
+            <Home></Home>
+            <Footer></Footer>
           </Route>
           <Route path="/home">
+              <Header></Header>
               <Home></Home>
+              <Footer></Footer>
           </Route>
           <Route path="/about">
+            <Header></Header>
             <About></About>
+            <Footer></Footer>
           </Route>
           <Route path="/services">
+            <Header></Header>
             <Services></Services>
+            <Footer></Footer>
           </Route>
           <Route path="/teacher">
-             <Teachers></Teachers>
+             <Header></Header>
+            <Teachers></Teachers>
+            <Footer></Footer>
           </Route>
           <Route path="*">
              <NoPage></NoPage>
           </Route>
        </Switch>
-       <Footer></Footer>
       </Router>
     </div>
   );

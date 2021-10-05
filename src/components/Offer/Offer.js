@@ -1,13 +1,12 @@
 import React from 'react';
 
 const Offer = (props) => {
-    console.log(props.offer)
     const { name,classSize, img, time,id, about, tutionFee, yarsOld } = props.offer;
     return (
         <div>
-                <div className="p-4 border-t-8 border-red-500 rounded-t-2xl transition-all duration-300 ease-in-out shadow-lg hover:shadow-xl">
+                <div className="p-4 border-t-8 border-red-300 hover:border-red-600 rounded-t-2xl transition-all duration-300 ease-in-out shadow-lg hover:shadow-xl">
                     <div className="overflow-hidden">
-                      <img className=" transition duration-600 ease-linear transform scale-100 hover:scale-110" src={img} alt={id} />
+                      <img className=" cursor-pointer transition duration-600 ease-linear transform scale-100 hover:scale-110" src={img} alt={id} />
                     </div>
                     <h3 className="text-2xl my-3 capitalize font-bold text-red-600"> { name}</h3>
                     <div className="flex justify-between">

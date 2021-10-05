@@ -6,7 +6,7 @@ const NoPage = () => {
         <div className="bg-gray-50">
              <div className="bg-red-400 py-8 ">
                 <span className="text-gray-500 text-xl"><Link className="text-gray-900" to="/home">Home /</Link> Not Found </span>
-                <h2 className="text-white capitalize font-bold text-3xl">Our all Services</h2>
+                <h2 className="text-white capitalize font-bold text-3xl">Opps! 😦 This page is not correct</h2>
             </div>
             <div className="container  h-screen flex items-center flex-col justify-center mx-auto ">
                 <img className="w-80" src={notFoundImg} alt="" />

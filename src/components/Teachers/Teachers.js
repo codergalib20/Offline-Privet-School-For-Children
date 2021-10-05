@@ -9,7 +9,6 @@ const Teachers = () => {
             .then(res => res.json())
             .then(data => setTeachers(data));
     }, [])
-    console.log(teachers.length)
     return (
         <div>
             <div className=" py-8 bg-red-400 ">

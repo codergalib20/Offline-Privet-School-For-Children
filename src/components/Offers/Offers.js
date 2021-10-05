@@ -8,12 +8,16 @@ const Offers = () => {
             .then(res => res.json())
             .then(data => setOffers(data));
     }, [])
-    console.log(offers.length)
     return (
-        <div className="container mx-auto grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5 py-10">
-            {
-                offers.map(offer => <Offer key={offer.key} offer={offer}></Offer>)
-            }
+        <div>
+            <div className=" mt-20">
+               <h2 className="text-green-800 capitalize font-bold text-3xl">Best Services</h2>
+            </div>
+            <div className="container mx-auto grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5 py-10">
+                {
+                    offers.map(offer => <Offer key={offer.key} offer={offer}></Offer>)
+                }
+            </div>
         </div>
     );
 };
