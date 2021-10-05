@@ -26,7 +26,7 @@ const Footer = () => {
                 <div>
 
                     <ul>
-                        <li className="text-xl  font-bold border-b-2 pb-3 border-white text-white">Principle </li>
+                        <li className="text-xl  font-bold border-b-2 pb-3 border-white text-white">Teachers </li>
                         <li className="text-lg cursor-pointer font-medium pt-3 text-white">Asadullah Hil Galib</li>
                         <li className="text-lg cursor-pointer font-medium text-white">Shybul Alif Sakib</li>
                         <li className="text-lg cursor-pointer font-medium text-white">Mr. Arif Ahammad (Arif)</li>
